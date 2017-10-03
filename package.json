@@ -1,0 +1,19 @@
+{
+  "name": "qstracking",
+  "version": "1.0.0",
+  "description": "This app is to help track your quantitative self",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beresford211/qsTracking.git"
+  },
+  "author": "Alice_Tim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beresford211/qsTracking/issues"
+  },
+  "homepage": "https://github.com/beresford211/qsTracking#readme"
+}
